@@ -1,0 +1,74 @@
+.page_grid
+{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.disclaimer
+{
+  font-size: 20px;
+  background-color: yellow;
+  color: black;
+  text-align: center;
+  padding: 2px;
+  font-family: 'Prata', serif;
+}
+.code
+{
+  font-family: 'Saira Semi Condensed', sans-serif;
+  font-style: italic;
+  background-color: lightgrey;
+  padding: 2px;
+}
+.chapters
+{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 30px;
+  border-style: solid;
+  border-color: darkblue;
+  border-top: 0px;
+  border-right:0px;
+  border-left:0px;
+  color:green;
+}
+.normal_paragraph
+{
+  font-family: 'Adamina', serif;
+  font-size: 20px;
+}
+.table_title
+{
+  font-size: 45px;
+}
+.table1
+{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 30px;
+  padding: 20px;
+  border-style: solid;
+  border-color: red;
+  border-width: 5px;
+  border-right: 0px;
+  border-top:0px;
+  position: sticky;
+  height: 2000px;
+  width: 100px;
+}
+.right_side
+{
+  padding: 20px;
+}
+.lists
+{
+  font-family: 'Adamina', serif;
+  font-size: 20px;
+}
+.inpagelink
+{
+  color:red;
+  text-decoration: none;
+}
+.normal_link
+{
+  text-decoration: none;
+  color:green;
+}
